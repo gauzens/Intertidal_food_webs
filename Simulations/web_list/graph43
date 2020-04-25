@@ -1,0 +1,239 @@
+graph [
+  directed 1
+  area 0.52
+  region "Canada_txt"
+  tempSee 11.5
+  initTemp 12.8
+  depth 0.11
+  repl "SF1M4"
+  path "/homes/bg33novu/projects/WarmingWebs/data/Canada_txt/SF1M4/web2.txt"
+  node [
+    id 0
+    label 2
+    status "basal"
+    masses 0.0001
+    morpho "B"
+  ]
+  node [
+    id 1
+    label 3
+    status "non_basal"
+    masses 0.001
+    morpho "INV"
+  ]
+  node [
+    id 2
+    label 8
+    status "basal"
+    masses 0.000228
+    morpho "B"
+  ]
+  node [
+    id 3
+    label 9
+    status "basal"
+    masses 0.000228
+    morpho "B"
+  ]
+  node [
+    id 4
+    label 43
+    status "non_basal"
+    masses 0.0011
+    morpho "INV"
+  ]
+  node [
+    id 5
+    label 12
+    status "basal"
+    masses 0.000228
+    morpho "B"
+  ]
+  node [
+    id 6
+    label 34
+    status "non_basal"
+    masses 0.0115
+    morpho "INV"
+  ]
+  node [
+    id 7
+    label 46
+    status "non_basal"
+    masses 0.0467
+    morpho "INV"
+  ]
+  node [
+    id 8
+    label 45
+    status "non_basal"
+    masses 0.0834
+    morpho "INV"
+  ]
+  node [
+    id 9
+    label 48
+    status "non_basal"
+    masses 0.2328
+    morpho "INV"
+  ]
+  node [
+    id 10
+    label 49
+    status "non_basal"
+    masses 2.4119
+    morpho "INV"
+  ]
+  node [
+    id 11
+    label 50
+    status "non_basal"
+    masses 0.0576
+    morpho "INV"
+  ]
+  node [
+    id 12
+    label 51
+    status "non_basal"
+    masses 0.1525
+    morpho "INV"
+  ]
+  node [
+    id 13
+    label 54
+    status "non_basal"
+    masses 0.0955
+    morpho "INV"
+  ]
+  node [
+    id 14
+    label 13
+    status "basal"
+    masses 0.000228
+    morpho "B"
+  ]
+  edge [
+    source 0
+    target 10
+  ]
+  edge [
+    source 0
+    target 1
+  ]
+  edge [
+    source 1
+    target 6
+  ]
+  edge [
+    source 1
+    target 1
+  ]
+  edge [
+    source 1
+    target 4
+  ]
+  edge [
+    source 1
+    target 10
+  ]
+  edge [
+    source 1
+    target 11
+  ]
+  edge [
+    source 1
+    target 12
+  ]
+  edge [
+    source 1
+    target 13
+  ]
+  edge [
+    source 2
+    target 9
+  ]
+  edge [
+    source 2
+    target 6
+  ]
+  edge [
+    source 2
+    target 12
+  ]
+  edge [
+    source 2
+    target 8
+  ]
+  edge [
+    source 2
+    target 7
+  ]
+  edge [
+    source 3
+    target 9
+  ]
+  edge [
+    source 3
+    target 6
+  ]
+  edge [
+    source 3
+    target 12
+  ]
+  edge [
+    source 3
+    target 8
+  ]
+  edge [
+    source 3
+    target 7
+  ]
+  edge [
+    source 4
+    target 4
+  ]
+  edge [
+    source 5
+    target 9
+  ]
+  edge [
+    source 5
+    target 6
+  ]
+  edge [
+    source 5
+    target 12
+  ]
+  edge [
+    source 5
+    target 8
+  ]
+  edge [
+    source 5
+    target 7
+  ]
+  edge [
+    source 6
+    target 6
+  ]
+  edge [
+    source 14
+    target 9
+  ]
+  edge [
+    source 14
+    target 6
+  ]
+  edge [
+    source 14
+    target 12
+  ]
+  edge [
+    source 14
+    target 8
+  ]
+  edge [
+    source 14
+    target 7
+  ]
+]

@@ -1,0 +1,1099 @@
+graph [
+  directed 1
+  area 4.19
+  region "Brasil(CE)_txt"
+  tempSee 28.4
+  initTemp 31.0
+  depth 0.42
+  repl "GJAP1"
+  path "/homes/bg33novu/projects/WarmingWebs/data/Brasil(CE)_txt/GJAP1/web2.txt"
+  node [
+    id 0
+    label 2
+    status "basal"
+    masses 0.0001
+    morpho "B"
+  ]
+  node [
+    id 1
+    label 3
+    status "non_basal"
+    masses 0.001
+    morpho "INV"
+  ]
+  node [
+    id 2
+    label 7
+    status "basal"
+    masses 0.000228
+    morpho "B"
+  ]
+  node [
+    id 3
+    label 8
+    status "basal"
+    masses 0.000228
+    morpho "B"
+  ]
+  node [
+    id 4
+    label 9
+    status "basal"
+    masses 0.000228
+    morpho "B"
+  ]
+  node [
+    id 5
+    label 14
+    status "basal"
+    masses 0.000228
+    morpho "B"
+  ]
+  node [
+    id 6
+    label 17
+    status "basal"
+    masses 0.000228
+    morpho "B"
+  ]
+  node [
+    id 7
+    label 20
+    status "basal"
+    masses 0.000228
+    morpho "B"
+  ]
+  node [
+    id 8
+    label 25
+    status "basal"
+    masses 0.000228
+    morpho "B"
+  ]
+  node [
+    id 9
+    label 27
+    status "basal"
+    masses 0.000228
+    morpho "B"
+  ]
+  node [
+    id 10
+    label 29
+    status "basal"
+    masses 0.000228
+    morpho "B"
+  ]
+  node [
+    id 11
+    label 30
+    status "basal"
+    masses 0.000228
+    morpho "B"
+  ]
+  node [
+    id 12
+    label 33
+    status "basal"
+    masses 0.000228
+    morpho "B"
+  ]
+  node [
+    id 13
+    label 35
+    status "basal"
+    masses 0.000228
+    morpho "B"
+  ]
+  node [
+    id 14
+    label 36
+    status "basal"
+    masses 0.000228
+    morpho "B"
+  ]
+  node [
+    id 15
+    label 39
+    status "basal"
+    masses 0.000228
+    morpho "B"
+  ]
+  node [
+    id 16
+    label 42
+    status "non_basal"
+    masses 0.01
+    morpho "INV"
+  ]
+  node [
+    id 17
+    label 53
+    status "non_basal"
+    masses 0.0034
+    morpho "INV"
+  ]
+  node [
+    id 18
+    label 56
+    status "non_basal"
+    masses 0.0007
+    morpho "INV"
+  ]
+  node [
+    id 19
+    label 67
+    status "non_basal"
+    masses 0.0013
+    morpho "INV"
+  ]
+  node [
+    id 20
+    label 69
+    status "non_basal"
+    masses 4.07
+    morpho "INV"
+  ]
+  node [
+    id 21
+    label 71
+    status "non_basal"
+    masses 0.0028
+    morpho "INV"
+  ]
+  node [
+    id 22
+    label 74
+    status "non_basal"
+    masses 78.27
+    morpho "INV"
+  ]
+  node [
+    id 23
+    label 81
+    status "non_basal"
+    masses 0.0006
+    morpho "INV"
+  ]
+  node [
+    id 24
+    label 82
+    status "non_basal"
+    masses 0.0037
+    morpho "INV"
+  ]
+  node [
+    id 25
+    label 85
+    status "non_basal"
+    masses 0.0014
+    morpho "INV"
+  ]
+  node [
+    id 26
+    label 87
+    status "non_basal"
+    masses 0.0011
+    morpho "INV"
+  ]
+  node [
+    id 27
+    label 96
+    status "non_basal"
+    masses 0.426
+    morpho "INV"
+  ]
+  node [
+    id 28
+    label 97
+    status "non_basal"
+    masses 0.36
+    morpho "INV"
+  ]
+  node [
+    id 29
+    label 112
+    status "non_basal"
+    masses 0.2735
+    morpho "VERT"
+  ]
+  node [
+    id 30
+    label 114
+    status "non_basal"
+    masses 0.01
+    morpho "VERT"
+  ]
+  edge [
+    source 0
+    target 16
+  ]
+  edge [
+    source 0
+    target 1
+  ]
+  edge [
+    source 0
+    target 17
+  ]
+  edge [
+    source 0
+    target 25
+  ]
+  edge [
+    source 1
+    target 27
+  ]
+  edge [
+    source 1
+    target 28
+  ]
+  edge [
+    source 1
+    target 19
+  ]
+  edge [
+    source 1
+    target 20
+  ]
+  edge [
+    source 1
+    target 21
+  ]
+  edge [
+    source 1
+    target 24
+  ]
+  edge [
+    source 1
+    target 29
+  ]
+  edge [
+    source 1
+    target 23
+  ]
+  edge [
+    source 1
+    target 30
+  ]
+  edge [
+    source 1
+    target 1
+  ]
+  edge [
+    source 1
+    target 17
+  ]
+  edge [
+    source 1
+    target 26
+  ]
+  edge [
+    source 1
+    target 18
+  ]
+  edge [
+    source 1
+    target 25
+  ]
+  edge [
+    source 2
+    target 28
+  ]
+  edge [
+    source 2
+    target 19
+  ]
+  edge [
+    source 2
+    target 21
+  ]
+  edge [
+    source 2
+    target 22
+  ]
+  edge [
+    source 2
+    target 24
+  ]
+  edge [
+    source 2
+    target 29
+  ]
+  edge [
+    source 2
+    target 23
+  ]
+  edge [
+    source 2
+    target 30
+  ]
+  edge [
+    source 2
+    target 17
+  ]
+  edge [
+    source 2
+    target 26
+  ]
+  edge [
+    source 2
+    target 25
+  ]
+  edge [
+    source 3
+    target 28
+  ]
+  edge [
+    source 3
+    target 19
+  ]
+  edge [
+    source 3
+    target 21
+  ]
+  edge [
+    source 3
+    target 22
+  ]
+  edge [
+    source 3
+    target 24
+  ]
+  edge [
+    source 3
+    target 29
+  ]
+  edge [
+    source 3
+    target 23
+  ]
+  edge [
+    source 3
+    target 30
+  ]
+  edge [
+    source 3
+    target 17
+  ]
+  edge [
+    source 3
+    target 26
+  ]
+  edge [
+    source 3
+    target 25
+  ]
+  edge [
+    source 4
+    target 28
+  ]
+  edge [
+    source 4
+    target 19
+  ]
+  edge [
+    source 4
+    target 21
+  ]
+  edge [
+    source 4
+    target 22
+  ]
+  edge [
+    source 4
+    target 24
+  ]
+  edge [
+    source 4
+    target 29
+  ]
+  edge [
+    source 4
+    target 23
+  ]
+  edge [
+    source 4
+    target 30
+  ]
+  edge [
+    source 4
+    target 17
+  ]
+  edge [
+    source 4
+    target 26
+  ]
+  edge [
+    source 4
+    target 25
+  ]
+  edge [
+    source 5
+    target 28
+  ]
+  edge [
+    source 5
+    target 19
+  ]
+  edge [
+    source 5
+    target 21
+  ]
+  edge [
+    source 5
+    target 22
+  ]
+  edge [
+    source 5
+    target 24
+  ]
+  edge [
+    source 5
+    target 29
+  ]
+  edge [
+    source 5
+    target 23
+  ]
+  edge [
+    source 5
+    target 30
+  ]
+  edge [
+    source 5
+    target 17
+  ]
+  edge [
+    source 5
+    target 26
+  ]
+  edge [
+    source 5
+    target 25
+  ]
+  edge [
+    source 6
+    target 28
+  ]
+  edge [
+    source 6
+    target 19
+  ]
+  edge [
+    source 6
+    target 21
+  ]
+  edge [
+    source 6
+    target 22
+  ]
+  edge [
+    source 6
+    target 24
+  ]
+  edge [
+    source 6
+    target 29
+  ]
+  edge [
+    source 6
+    target 23
+  ]
+  edge [
+    source 6
+    target 30
+  ]
+  edge [
+    source 6
+    target 17
+  ]
+  edge [
+    source 6
+    target 26
+  ]
+  edge [
+    source 6
+    target 25
+  ]
+  edge [
+    source 7
+    target 28
+  ]
+  edge [
+    source 7
+    target 19
+  ]
+  edge [
+    source 7
+    target 21
+  ]
+  edge [
+    source 7
+    target 22
+  ]
+  edge [
+    source 7
+    target 24
+  ]
+  edge [
+    source 7
+    target 29
+  ]
+  edge [
+    source 7
+    target 23
+  ]
+  edge [
+    source 7
+    target 30
+  ]
+  edge [
+    source 7
+    target 17
+  ]
+  edge [
+    source 7
+    target 26
+  ]
+  edge [
+    source 7
+    target 25
+  ]
+  edge [
+    source 8
+    target 28
+  ]
+  edge [
+    source 8
+    target 19
+  ]
+  edge [
+    source 8
+    target 21
+  ]
+  edge [
+    source 8
+    target 22
+  ]
+  edge [
+    source 8
+    target 24
+  ]
+  edge [
+    source 8
+    target 29
+  ]
+  edge [
+    source 8
+    target 23
+  ]
+  edge [
+    source 8
+    target 30
+  ]
+  edge [
+    source 8
+    target 17
+  ]
+  edge [
+    source 8
+    target 26
+  ]
+  edge [
+    source 8
+    target 25
+  ]
+  edge [
+    source 9
+    target 28
+  ]
+  edge [
+    source 9
+    target 19
+  ]
+  edge [
+    source 9
+    target 21
+  ]
+  edge [
+    source 9
+    target 22
+  ]
+  edge [
+    source 9
+    target 24
+  ]
+  edge [
+    source 9
+    target 29
+  ]
+  edge [
+    source 9
+    target 23
+  ]
+  edge [
+    source 9
+    target 30
+  ]
+  edge [
+    source 9
+    target 17
+  ]
+  edge [
+    source 9
+    target 26
+  ]
+  edge [
+    source 9
+    target 25
+  ]
+  edge [
+    source 10
+    target 28
+  ]
+  edge [
+    source 10
+    target 19
+  ]
+  edge [
+    source 10
+    target 21
+  ]
+  edge [
+    source 10
+    target 22
+  ]
+  edge [
+    source 10
+    target 24
+  ]
+  edge [
+    source 10
+    target 29
+  ]
+  edge [
+    source 10
+    target 23
+  ]
+  edge [
+    source 10
+    target 30
+  ]
+  edge [
+    source 10
+    target 17
+  ]
+  edge [
+    source 10
+    target 26
+  ]
+  edge [
+    source 10
+    target 25
+  ]
+  edge [
+    source 11
+    target 28
+  ]
+  edge [
+    source 11
+    target 19
+  ]
+  edge [
+    source 11
+    target 21
+  ]
+  edge [
+    source 11
+    target 22
+  ]
+  edge [
+    source 11
+    target 24
+  ]
+  edge [
+    source 11
+    target 29
+  ]
+  edge [
+    source 11
+    target 23
+  ]
+  edge [
+    source 11
+    target 30
+  ]
+  edge [
+    source 11
+    target 17
+  ]
+  edge [
+    source 11
+    target 26
+  ]
+  edge [
+    source 11
+    target 25
+  ]
+  edge [
+    source 12
+    target 28
+  ]
+  edge [
+    source 12
+    target 19
+  ]
+  edge [
+    source 12
+    target 21
+  ]
+  edge [
+    source 12
+    target 22
+  ]
+  edge [
+    source 12
+    target 24
+  ]
+  edge [
+    source 12
+    target 29
+  ]
+  edge [
+    source 12
+    target 23
+  ]
+  edge [
+    source 12
+    target 30
+  ]
+  edge [
+    source 12
+    target 17
+  ]
+  edge [
+    source 12
+    target 26
+  ]
+  edge [
+    source 12
+    target 25
+  ]
+  edge [
+    source 13
+    target 28
+  ]
+  edge [
+    source 13
+    target 19
+  ]
+  edge [
+    source 13
+    target 21
+  ]
+  edge [
+    source 13
+    target 22
+  ]
+  edge [
+    source 13
+    target 24
+  ]
+  edge [
+    source 13
+    target 29
+  ]
+  edge [
+    source 13
+    target 23
+  ]
+  edge [
+    source 13
+    target 30
+  ]
+  edge [
+    source 13
+    target 17
+  ]
+  edge [
+    source 13
+    target 26
+  ]
+  edge [
+    source 13
+    target 25
+  ]
+  edge [
+    source 14
+    target 28
+  ]
+  edge [
+    source 14
+    target 19
+  ]
+  edge [
+    source 14
+    target 21
+  ]
+  edge [
+    source 14
+    target 22
+  ]
+  edge [
+    source 14
+    target 24
+  ]
+  edge [
+    source 14
+    target 29
+  ]
+  edge [
+    source 14
+    target 23
+  ]
+  edge [
+    source 14
+    target 30
+  ]
+  edge [
+    source 14
+    target 17
+  ]
+  edge [
+    source 14
+    target 26
+  ]
+  edge [
+    source 14
+    target 25
+  ]
+  edge [
+    source 15
+    target 28
+  ]
+  edge [
+    source 15
+    target 19
+  ]
+  edge [
+    source 15
+    target 21
+  ]
+  edge [
+    source 15
+    target 22
+  ]
+  edge [
+    source 15
+    target 24
+  ]
+  edge [
+    source 15
+    target 29
+  ]
+  edge [
+    source 15
+    target 23
+  ]
+  edge [
+    source 15
+    target 30
+  ]
+  edge [
+    source 15
+    target 17
+  ]
+  edge [
+    source 15
+    target 26
+  ]
+  edge [
+    source 15
+    target 25
+  ]
+  edge [
+    source 17
+    target 27
+  ]
+  edge [
+    source 17
+    target 28
+  ]
+  edge [
+    source 17
+    target 30
+  ]
+  edge [
+    source 17
+    target 17
+  ]
+  edge [
+    source 17
+    target 26
+  ]
+  edge [
+    source 18
+    target 18
+  ]
+  edge [
+    source 18
+    target 17
+  ]
+  edge [
+    source 18
+    target 25
+  ]
+  edge [
+    source 18
+    target 26
+  ]
+  edge [
+    source 19
+    target 28
+  ]
+  edge [
+    source 19
+    target 30
+  ]
+  edge [
+    source 19
+    target 17
+  ]
+  edge [
+    source 21
+    target 28
+  ]
+  edge [
+    source 21
+    target 30
+  ]
+  edge [
+    source 21
+    target 17
+  ]
+  edge [
+    source 23
+    target 30
+  ]
+  edge [
+    source 23
+    target 17
+  ]
+  edge [
+    source 23
+    target 24
+  ]
+  edge [
+    source 23
+    target 25
+  ]
+  edge [
+    source 23
+    target 26
+  ]
+  edge [
+    source 24
+    target 27
+  ]
+  edge [
+    source 24
+    target 28
+  ]
+  edge [
+    source 24
+    target 24
+  ]
+  edge [
+    source 24
+    target 29
+  ]
+  edge [
+    source 24
+    target 30
+  ]
+  edge [
+    source 24
+    target 17
+  ]
+  edge [
+    source 24
+    target 26
+  ]
+  edge [
+    source 25
+    target 27
+  ]
+  edge [
+    source 25
+    target 28
+  ]
+  edge [
+    source 25
+    target 24
+  ]
+  edge [
+    source 25
+    target 29
+  ]
+  edge [
+    source 25
+    target 30
+  ]
+  edge [
+    source 25
+    target 17
+  ]
+  edge [
+    source 25
+    target 26
+  ]
+  edge [
+    source 25
+    target 25
+  ]
+  edge [
+    source 26
+    target 27
+  ]
+  edge [
+    source 26
+    target 28
+  ]
+  edge [
+    source 26
+    target 24
+  ]
+  edge [
+    source 26
+    target 29
+  ]
+  edge [
+    source 26
+    target 30
+  ]
+  edge [
+    source 26
+    target 17
+  ]
+  edge [
+    source 26
+    target 26
+  ]
+  edge [
+    source 26
+    target 25
+  ]
+  edge [
+    source 27
+    target 28
+  ]
+  edge [
+    source 28
+    target 28
+  ]
+  edge [
+    source 29
+    target 29
+  ]
+]

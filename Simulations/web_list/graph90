@@ -1,0 +1,545 @@
+graph [
+  directed 1
+  area 0.4
+  region "Mad_txt"
+  tempSee 22.9
+  initTemp 23.0
+  depth 0.3
+  repl "RMP5"
+  path "/homes/bg33novu/projects/WarmingWebs/data/Mad_txt/RMP5/web2.txt"
+  node [
+    id 0
+    label 19
+    status "basal"
+    masses 0.000228
+    morpho "B"
+  ]
+  node [
+    id 1
+    label 2
+    status "basal"
+    masses 0.0001
+    morpho "B"
+  ]
+  node [
+    id 2
+    label 3
+    status "non_basal"
+    masses 0.001
+    morpho "INV"
+  ]
+  node [
+    id 3
+    label 4
+    status "basal"
+    masses 0.000228
+    morpho "B"
+  ]
+  node [
+    id 4
+    label 69
+    status "non_basal"
+    masses 1.01
+    morpho "VERT"
+  ]
+  node [
+    id 5
+    label 70
+    status "non_basal"
+    masses 0.47
+    morpho "VERT"
+  ]
+  node [
+    id 6
+    label 71
+    status "non_basal"
+    masses 0.29
+    morpho "VERT"
+  ]
+  node [
+    id 7
+    label 41
+    status "non_basal"
+    masses 0.0005
+    morpho "INV"
+  ]
+  node [
+    id 8
+    label 7
+    status "basal"
+    masses 0.000228
+    morpho "B"
+  ]
+  node [
+    id 9
+    label 13
+    status "basal"
+    masses 0.000228
+    morpho "B"
+  ]
+  node [
+    id 10
+    label 46
+    status "non_basal"
+    masses 0.0011
+    morpho "INV"
+  ]
+  node [
+    id 11
+    label 47
+    status "non_basal"
+    masses 0.0005
+    morpho "INV"
+  ]
+  node [
+    id 12
+    label 16
+    status "basal"
+    masses 0.000228
+    morpho "B"
+  ]
+  node [
+    id 13
+    label 49
+    status "non_basal"
+    masses 0.0003
+    morpho "INV"
+  ]
+  node [
+    id 14
+    label 18
+    status "basal"
+    masses 0.000228
+    morpho "B"
+  ]
+  node [
+    id 15
+    label 51
+    status "non_basal"
+    masses 0.003
+    morpho "INV"
+  ]
+  node [
+    id 16
+    label 21
+    status "basal"
+    masses 0.000228
+    morpho "B"
+  ]
+  node [
+    id 17
+    label 57
+    status "non_basal"
+    masses 0.34
+    morpho "INV"
+  ]
+  node [
+    id 18
+    label 6
+    status "basal"
+    masses 0.000228
+    morpho "B"
+  ]
+  node [
+    id 19
+    label 30
+    status "non_basal"
+    masses 0.001
+    morpho "INV"
+  ]
+  node [
+    id 20
+    label 31
+    status "non_basal"
+    masses 0.0012
+    morpho "INV"
+  ]
+  edge [
+    source 0
+    target 4
+  ]
+  edge [
+    source 0
+    target 5
+  ]
+  edge [
+    source 0
+    target 6
+  ]
+  edge [
+    source 0
+    target 7
+  ]
+  edge [
+    source 0
+    target 10
+  ]
+  edge [
+    source 0
+    target 11
+  ]
+  edge [
+    source 0
+    target 13
+  ]
+  edge [
+    source 0
+    target 17
+  ]
+  edge [
+    source 1
+    target 13
+  ]
+  edge [
+    source 1
+    target 2
+  ]
+  edge [
+    source 2
+    target 2
+  ]
+  edge [
+    source 2
+    target 5
+  ]
+  edge [
+    source 2
+    target 6
+  ]
+  edge [
+    source 2
+    target 10
+  ]
+  edge [
+    source 2
+    target 11
+  ]
+  edge [
+    source 2
+    target 15
+  ]
+  edge [
+    source 2
+    target 19
+  ]
+  edge [
+    source 2
+    target 20
+  ]
+  edge [
+    source 3
+    target 4
+  ]
+  edge [
+    source 3
+    target 5
+  ]
+  edge [
+    source 3
+    target 6
+  ]
+  edge [
+    source 3
+    target 7
+  ]
+  edge [
+    source 3
+    target 10
+  ]
+  edge [
+    source 3
+    target 11
+  ]
+  edge [
+    source 3
+    target 13
+  ]
+  edge [
+    source 3
+    target 17
+  ]
+  edge [
+    source 4
+    target 4
+  ]
+  edge [
+    source 4
+    target 5
+  ]
+  edge [
+    source 5
+    target 17
+  ]
+  edge [
+    source 5
+    target 4
+  ]
+  edge [
+    source 5
+    target 5
+  ]
+  edge [
+    source 6
+    target 17
+  ]
+  edge [
+    source 6
+    target 4
+  ]
+  edge [
+    source 6
+    target 5
+  ]
+  edge [
+    source 8
+    target 4
+  ]
+  edge [
+    source 8
+    target 5
+  ]
+  edge [
+    source 8
+    target 6
+  ]
+  edge [
+    source 8
+    target 7
+  ]
+  edge [
+    source 8
+    target 10
+  ]
+  edge [
+    source 8
+    target 11
+  ]
+  edge [
+    source 8
+    target 13
+  ]
+  edge [
+    source 8
+    target 17
+  ]
+  edge [
+    source 9
+    target 4
+  ]
+  edge [
+    source 9
+    target 5
+  ]
+  edge [
+    source 9
+    target 6
+  ]
+  edge [
+    source 9
+    target 7
+  ]
+  edge [
+    source 9
+    target 10
+  ]
+  edge [
+    source 9
+    target 11
+  ]
+  edge [
+    source 9
+    target 13
+  ]
+  edge [
+    source 9
+    target 17
+  ]
+  edge [
+    source 10
+    target 17
+  ]
+  edge [
+    source 10
+    target 5
+  ]
+  edge [
+    source 12
+    target 4
+  ]
+  edge [
+    source 12
+    target 5
+  ]
+  edge [
+    source 12
+    target 6
+  ]
+  edge [
+    source 12
+    target 7
+  ]
+  edge [
+    source 12
+    target 10
+  ]
+  edge [
+    source 12
+    target 11
+  ]
+  edge [
+    source 12
+    target 13
+  ]
+  edge [
+    source 12
+    target 17
+  ]
+  edge [
+    source 13
+    target 13
+  ]
+  edge [
+    source 14
+    target 4
+  ]
+  edge [
+    source 14
+    target 5
+  ]
+  edge [
+    source 14
+    target 6
+  ]
+  edge [
+    source 14
+    target 7
+  ]
+  edge [
+    source 14
+    target 10
+  ]
+  edge [
+    source 14
+    target 11
+  ]
+  edge [
+    source 14
+    target 13
+  ]
+  edge [
+    source 14
+    target 17
+  ]
+  edge [
+    source 15
+    target 17
+  ]
+  edge [
+    source 15
+    target 4
+  ]
+  edge [
+    source 15
+    target 5
+  ]
+  edge [
+    source 16
+    target 4
+  ]
+  edge [
+    source 16
+    target 5
+  ]
+  edge [
+    source 16
+    target 6
+  ]
+  edge [
+    source 16
+    target 7
+  ]
+  edge [
+    source 16
+    target 10
+  ]
+  edge [
+    source 16
+    target 11
+  ]
+  edge [
+    source 16
+    target 13
+  ]
+  edge [
+    source 16
+    target 17
+  ]
+  edge [
+    source 17
+    target 17
+  ]
+  edge [
+    source 18
+    target 4
+  ]
+  edge [
+    source 18
+    target 5
+  ]
+  edge [
+    source 18
+    target 6
+  ]
+  edge [
+    source 18
+    target 7
+  ]
+  edge [
+    source 18
+    target 10
+  ]
+  edge [
+    source 18
+    target 11
+  ]
+  edge [
+    source 18
+    target 13
+  ]
+  edge [
+    source 18
+    target 17
+  ]
+  edge [
+    source 19
+    target 17
+  ]
+  edge [
+    source 19
+    target 15
+  ]
+  edge [
+    source 19
+    target 19
+  ]
+  edge [
+    source 19
+    target 5
+  ]
+  edge [
+    source 20
+    target 17
+  ]
+  edge [
+    source 20
+    target 15
+  ]
+  edge [
+    source 20
+    target 5
+  ]
+  edge [
+    source 20
+    target 20
+  ]
+]

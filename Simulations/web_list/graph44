@@ -1,0 +1,206 @@
+graph [
+  directed 1
+  area 0.95
+  region "Canada_txt"
+  tempSee 11.5
+  initTemp 13.4
+  depth 0.11
+  repl "SF1M1"
+  path "/homes/bg33novu/projects/WarmingWebs/data/Canada_txt/SF1M1/web2.txt"
+  node [
+    id 0
+    label 2
+    status "basal"
+    masses 0.0001
+    morpho "B"
+  ]
+  node [
+    id 1
+    label 3
+    status "non_basal"
+    masses 0.001
+    morpho "INV"
+  ]
+  node [
+    id 2
+    label 8
+    status "basal"
+    masses 0.000228
+    morpho "B"
+  ]
+  node [
+    id 3
+    label 12
+    status "basal"
+    masses 0.000228
+    morpho "B"
+  ]
+  node [
+    id 4
+    label 34
+    status "non_basal"
+    masses 0.178
+    morpho "INV"
+  ]
+  node [
+    id 5
+    label 46
+    status "non_basal"
+    masses 0.0293
+    morpho "INV"
+  ]
+  node [
+    id 6
+    label 45
+    status "non_basal"
+    masses 0.0745
+    morpho "INV"
+  ]
+  node [
+    id 7
+    label 48
+    status "non_basal"
+    masses 0.1159
+    morpho "INV"
+  ]
+  node [
+    id 8
+    label 49
+    status "non_basal"
+    masses 1.3954
+    morpho "INV"
+  ]
+  node [
+    id 9
+    label 51
+    status "non_basal"
+    masses 0.1718
+    morpho "INV"
+  ]
+  node [
+    id 10
+    label 24
+    status "basal"
+    masses 0.000228
+    morpho "B"
+  ]
+  node [
+    id 11
+    label 13
+    status "basal"
+    masses 0.000228
+    morpho "B"
+  ]
+  edge [
+    source 0
+    target 8
+  ]
+  edge [
+    source 0
+    target 1
+  ]
+  edge [
+    source 1
+    target 8
+  ]
+  edge [
+    source 1
+    target 4
+  ]
+  edge [
+    source 1
+    target 1
+  ]
+  edge [
+    source 1
+    target 9
+  ]
+  edge [
+    source 2
+    target 7
+  ]
+  edge [
+    source 2
+    target 4
+  ]
+  edge [
+    source 2
+    target 9
+  ]
+  edge [
+    source 2
+    target 6
+  ]
+  edge [
+    source 2
+    target 5
+  ]
+  edge [
+    source 3
+    target 7
+  ]
+  edge [
+    source 3
+    target 4
+  ]
+  edge [
+    source 3
+    target 9
+  ]
+  edge [
+    source 3
+    target 6
+  ]
+  edge [
+    source 3
+    target 5
+  ]
+  edge [
+    source 4
+    target 4
+  ]
+  edge [
+    source 9
+    target 4
+  ]
+  edge [
+    source 10
+    target 7
+  ]
+  edge [
+    source 10
+    target 4
+  ]
+  edge [
+    source 10
+    target 9
+  ]
+  edge [
+    source 10
+    target 6
+  ]
+  edge [
+    source 10
+    target 5
+  ]
+  edge [
+    source 11
+    target 7
+  ]
+  edge [
+    source 11
+    target 4
+  ]
+  edge [
+    source 11
+    target 9
+  ]
+  edge [
+    source 11
+    target 6
+  ]
+  edge [
+    source 11
+    target 5
+  ]
+]

@@ -1,0 +1,325 @@
+graph [
+  directed 1
+  area 0.34
+  region "Canada_txt"
+  tempSee 11.5
+  initTemp 19.6
+  depth 0.08
+  repl "SF2M4"
+  path "/homes/bg33novu/projects/WarmingWebs/data/Canada_txt/SF2M4/web2.txt"
+  node [
+    id 0
+    label 32
+    status "non_basal"
+    masses 0.0017
+    morpho "INV"
+  ]
+  node [
+    id 1
+    label 2
+    status "basal"
+    masses 0.0001
+    morpho "B"
+  ]
+  node [
+    id 2
+    label 3
+    status "non_basal"
+    masses 0.001
+    morpho "INV"
+  ]
+  node [
+    id 3
+    label 37
+    status "non_basal"
+    masses 0.0025
+    morpho "INV"
+  ]
+  node [
+    id 4
+    label 38
+    status "non_basal"
+    masses 0.0026
+    morpho "INV"
+  ]
+  node [
+    id 5
+    label 8
+    status "basal"
+    masses 0.000228
+    morpho "B"
+  ]
+  node [
+    id 6
+    label 41
+    status "non_basal"
+    masses 0.0042
+    morpho "INV"
+  ]
+  node [
+    id 7
+    label 43
+    status "non_basal"
+    masses 0.0014
+    morpho "INV"
+  ]
+  node [
+    id 8
+    label 12
+    status "basal"
+    masses 0.000228
+    morpho "B"
+  ]
+  node [
+    id 9
+    label 34
+    status "non_basal"
+    masses 0.0833
+    morpho "INV"
+  ]
+  node [
+    id 10
+    label 46
+    status "non_basal"
+    masses 0.0578
+    morpho "INV"
+  ]
+  node [
+    id 11
+    label 45
+    status "non_basal"
+    masses 0.1052
+    morpho "INV"
+  ]
+  node [
+    id 12
+    label 48
+    status "non_basal"
+    masses 0.3742
+    morpho "INV"
+  ]
+  node [
+    id 13
+    label 49
+    status "non_basal"
+    masses 2.5365
+    morpho "INV"
+  ]
+  node [
+    id 14
+    label 51
+    status "non_basal"
+    masses 0.1116
+    morpho "INV"
+  ]
+  node [
+    id 15
+    label 13
+    status "basal"
+    masses 0.000228
+    morpho "B"
+  ]
+  node [
+    id 16
+    label 31
+    status "non_basal"
+    masses 0.01
+    morpho "INV"
+  ]
+  edge [
+    source 0
+    target 0
+  ]
+  edge [
+    source 0
+    target 3
+  ]
+  edge [
+    source 0
+    target 4
+  ]
+  edge [
+    source 1
+    target 0
+  ]
+  edge [
+    source 1
+    target 6
+  ]
+  edge [
+    source 1
+    target 2
+  ]
+  edge [
+    source 1
+    target 13
+  ]
+  edge [
+    source 2
+    target 0
+  ]
+  edge [
+    source 2
+    target 9
+  ]
+  edge [
+    source 2
+    target 2
+  ]
+  edge [
+    source 2
+    target 3
+  ]
+  edge [
+    source 2
+    target 4
+  ]
+  edge [
+    source 2
+    target 6
+  ]
+  edge [
+    source 2
+    target 7
+  ]
+  edge [
+    source 2
+    target 13
+  ]
+  edge [
+    source 2
+    target 14
+  ]
+  edge [
+    source 3
+    target 0
+  ]
+  edge [
+    source 3
+    target 3
+  ]
+  edge [
+    source 3
+    target 4
+  ]
+  edge [
+    source 4
+    target 0
+  ]
+  edge [
+    source 4
+    target 3
+  ]
+  edge [
+    source 4
+    target 4
+  ]
+  edge [
+    source 5
+    target 0
+  ]
+  edge [
+    source 5
+    target 9
+  ]
+  edge [
+    source 5
+    target 11
+  ]
+  edge [
+    source 5
+    target 10
+  ]
+  edge [
+    source 5
+    target 12
+  ]
+  edge [
+    source 5
+    target 14
+  ]
+  edge [
+    source 5
+    target 16
+  ]
+  edge [
+    source 6
+    target 3
+  ]
+  edge [
+    source 6
+    target 4
+  ]
+  edge [
+    source 7
+    target 7
+  ]
+  edge [
+    source 8
+    target 0
+  ]
+  edge [
+    source 8
+    target 9
+  ]
+  edge [
+    source 8
+    target 11
+  ]
+  edge [
+    source 8
+    target 10
+  ]
+  edge [
+    source 8
+    target 12
+  ]
+  edge [
+    source 8
+    target 14
+  ]
+  edge [
+    source 8
+    target 16
+  ]
+  edge [
+    source 9
+    target 9
+  ]
+  edge [
+    source 14
+    target 9
+  ]
+  edge [
+    source 15
+    target 0
+  ]
+  edge [
+    source 15
+    target 9
+  ]
+  edge [
+    source 15
+    target 11
+  ]
+  edge [
+    source 15
+    target 10
+  ]
+  edge [
+    source 15
+    target 12
+  ]
+  edge [
+    source 15
+    target 14
+  ]
+  edge [
+    source 15
+    target 16
+  ]
+  edge [
+    source 16
+    target 16
+  ]
+]
